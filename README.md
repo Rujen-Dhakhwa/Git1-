@@ -1,3 +1,4 @@
 # Git1-
-First git repository
+My first git repository.
+<br>
 Author-Rujen Dhakhwa
